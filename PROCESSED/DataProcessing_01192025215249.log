@@ -1,0 +1,14 @@
+20250119215249 - Step a: Downloading file...
+20250119215249 - Download successful.
+20250119215249 - Unzipping file using 7-Zip
+20250119215253 - Unzip successful
+20250119215253 - Step c: Validating file...
+20250119215253 - Validating and processing file C:\Users\Igor\Desktop\BDP_2_not\zad10v2\InternetSales_new\InternetSales_new.txt
+20250119215304 - Validating and processing file C:\Users\Igor\Desktop\BDP_2_not\zad10v2\InternetSales_new\InternetSales_new.txt
+20250119215304 - Validation complete. Valid lines saved to 
+20250119215304 - Step d: Creating table...
+20250119215304 - Table creation successful.
+20250119215304 - Data loading to table  - Successful
+20250119215304 - File moved to .\PROCESSED\01192025215249_InternetSales_new.txt - Successful
+20250119215305 - SecretCode column updated - Successful
+20250119215305 - Table  exported to CSV - Successful

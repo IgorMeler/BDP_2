@@ -1,0 +1,15 @@
+20250119215614 - Step a: Downloading file...
+20250119215614 - Download successful.
+20250119215614 - Unzipping file using 7-Zip
+20250119215618 - Unzip successful
+20250119215618 - Step c: Validating file...
+20250119215618 - Validating and processing file C:\Users\Igor\Desktop\BDP_2_not\zad10v2\InternetSales_new\InternetSales_new.txt
+20250119215630 - Validating and processing file C:\Users\Igor\Desktop\BDP_2_not\zad10v2\InternetSales_new\InternetSales_new.txt
+20250119215630 - Validation complete. Valid lines saved to 
+20250119215630 - Step d: Creating table...
+20250119215630 - Table creation successful.
+20250119215630 - Data loading to table  - Successful
+20250119215630 - File moved to .\PROCESSED\01192025215614_InternetSales_new.txt - Successful
+20250119215630 - SecretCode column updated - Successful
+20250119215631 - Table  exported to CSV - Successful
+20250119215631 - CSV compression - Failed: The path '.\PROCESSED\.\PROCESSED' either does not exist or is not a valid file system path.

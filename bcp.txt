@@ -1,0 +1,3 @@
+bcp AdventureWorksDW2019.dbo.CUSTOMERS_2 format nul -f cst_load.fmt -t "," -c -T -S DESKTOP-0OVLTIN\MSSQLSERVER01
+
+bcp AdventureWorksDW2019.dbo.CUSTOMERS_2 in PROCESSED\export_01192025220642.csv -t "," -f cst_load.fmt -T -S DESKTOP-0OVLTIN\MSSQLSERVER01

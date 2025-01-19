@@ -1,0 +1,11 @@
+20250119213058 - Step a: Downloading file...
+20250119213059 - Download successful.
+20250119213059 - Unzipping file using 7-Zip
+20250119213102 - Unzip successful
+20250119213102 - Step c: Validating file...
+20250119213102 - Validating and processing file C:\Users\Igor\Desktop\BDP_2_not\zad10v2\InternetSales_new\InternetSales_new.txt
+20250119213113 - Validating and processing file C:\Users\Igor\Desktop\BDP_2_not\zad10v2\InternetSales_new\InternetSales_new.txt
+20250119213113 - Validation complete. Valid lines saved to 
+20250119213113 - Step d: Creating table...
+20250119213113 - Table creation successful.
+20250119213113 - Data loading to table  - Successful
